@@ -1,7 +1,7 @@
 # Starbase-Closures
 SpaceX Starbase Closure Terminal App
 
-## installing 
+## Installing 
 
 Install the rich terminal library.
 ```sh
