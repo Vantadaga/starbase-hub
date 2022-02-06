@@ -9,5 +9,9 @@ python -m pip install rich
 ```
 Run this command in the closure_app directory to install the application
 ```sh
-pip install.
+pip install .
+```
+Run this command in the closure_app directory to install the application
+```sh
+closures
 ```
