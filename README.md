@@ -1,6 +1,10 @@
 # Starbase-Closures
 SpaceX Starbase Closure Terminal App
 
+## Screenshots
+
+![](screenshots/screenshot.png)
+
 ## Installing 
 
 Install the rich terminal library.
