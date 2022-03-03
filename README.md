@@ -16,7 +16,7 @@ For linux
 ```sh
 pip3 install rich
 ```
-Run this command in the starbase_hub directory to install the application
+Run this command in the starbase-hub directory to install the application
 ```sh
 pip install .
 ```
