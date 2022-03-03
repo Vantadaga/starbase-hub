@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(
-    name="closure_app",
+    name="starbase-hub",
     version="0.2.0",
-    packages=["closure_app"],
+    packages=["app"],
     entry_points={
         "console_scripts": [
-            "closures = closure_app.__main__:main"
+            "closures = app.__main__:main"
         ]
     },
 )
