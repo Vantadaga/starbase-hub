@@ -20,7 +20,7 @@ Run this command in the starbase-hub directory to install the application
 ```sh
 pip install .
 ```
-Run this command in terminal to retrieve the latest highway 4 road closures
+Run this command in terminal to retrieve the latest highway 4 road closures and temporary flight restrictions
 ```sh
 closures
 ```
