@@ -1,5 +1,5 @@
 # Starbase-Hub
-SpaceX Starbase Closure Terminal App
+SpaceX Starbase Information Terminal App
 
 ## Screenshots
 
